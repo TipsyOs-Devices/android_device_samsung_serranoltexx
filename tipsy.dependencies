@@ -2,27 +2,27 @@
   {
     "repository": "TheMuppets/proprietary_vendor_samsung",
     "target_path": "vendor/samsung",
-    "branch": "cm-13.0",
+    "branch": "cm-13.0"
   },
   {
     "repository": "CyanogenMod/android_device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common",
-    "branch": "cm-13.0",
+    "branch": "cm-13.0"
   },
   {
     "repository": "CyanogenMod/android_device_samsung_msm8930-common",
     "target_path": "device/samsung/msm8930-common",
-    "branch": "cm-13.0",
+    "branch": "cm-13.0"
   },
   {
     "remote": "github",
     "repository": "WimN/android_device_samsung_serrano-common",
     "target_path": "device/samsung/serrano-common",
-    "branch": "cm-13.0",
+    "branch": "cm-13.0"
   },
   {
     "repository": "CyanogenMod/android_kernel_samsung_msm8930-common",
     "target_path": "kernel/samsung/msm8930-common",
-    "branch": "cm-13.0",
-  },
+    "branch": "cm-13.0"
+  }
 ]
