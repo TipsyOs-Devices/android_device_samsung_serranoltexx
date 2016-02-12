@@ -10,6 +10,7 @@
     "branch": "cm-13.0"
   },
   {
+    "remote": "github",
     "repository": "WimN/android_device_samsung_serrano-common",
     "target_path": "device/samsung/serrano-common",
     "branch": "cm-13.0"
