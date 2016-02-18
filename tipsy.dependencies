@@ -5,7 +5,7 @@
     "branch": "cm-13.0"
   },
   {
-    "repository": "CyanogenMod/android_device_samsung_qcom-common",
+    "repository": "WimN/android_device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common",
     "branch": "cm-13.0"
   },
